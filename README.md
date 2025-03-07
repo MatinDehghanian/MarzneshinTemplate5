@@ -8,7 +8,7 @@
 برای نصب تمپلیت دستورات زیر را در ترمینال سرور خود اجرا کنید:
 1. دانلود فایل تمپلیت
 ```sh
-sudo wget -N -P /var/lib/marzneshin/templates/subscription/ https://raw.githubusercontent.com/MatinDehghanian/MarzneshinTemplate5/master/subscription/index.html
+sudo wget -N -P /var/lib/marzneshin/templates/subscription/ https://github.com/MatinDehghanian/MarzneshinTemplate5/raw/refs/heads/main/index.html
 ```
 2. دستورات زیر رو تو ترمینال سرورتون بزنید:
 ```sh
